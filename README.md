@@ -1,4 +1,4 @@
-# Hi there, I'm [Manas Jadhav]! 👋
+# Hi there, I'm Manas Jadhav! 👋
 
 🎓 **Aspiring Data Analyst | Python Enthusiast | Lifelong Learner**
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about tran
 - 🔍 I’m interested in projects related to customer behavior analysis, financial data analysis, and health data.
 - 📊 My toolkit includes Python, SQL, Pandas, Matplotlib, Seaborn, and Jupyter notebooks.
 - 🧠 Currently diving into machine learning with Scikit-Learn and exploring deployment with Streamlit.
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manasjadhav08/) or email me at [manasjadhav7083@gmail.com].
+- 📫 Feel free to contact me on [LinkedIn] https://www.linkedin.com/in/manasjadhav08/ or email me at manasjadhav7083@gmail.com.
 
 ---
 
