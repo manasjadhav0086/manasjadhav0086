@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about tran
 
 ## 🚀 Skills
 - **Programming Languages:** Python, SQL
-- **Data Analysis Libraries:** Pandas, NumPy, Scikit-Learn
+- **Data Analysis Libraries:** Pandas, NumPy
 - **Data Visualization Tools:** Matplotlib, Seaborn, Plotly
-- **Other Tools:** Jupyter Notebook, Google Sheets, Tableau, Power BI
+- **Other Tools:** Jupyter Notebook, Google Sheets, Excel, Power BI
 - **Skills in Progress:** Machine Learning, Statistical Analysis, Data Engineering Basics
 
 ---
