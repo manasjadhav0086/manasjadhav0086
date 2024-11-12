@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Manas Jadhav</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+# Hi there, I'm [Manas Jadhav]! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasjadhav0086&label=Profile%20views&color=0e75b6&style=flat" alt="manasjadhav0086" /> </p>
+🎓 **Aspiring Data Analyst | Python Enthusiast | Lifelong Learner**
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+Welcome to my GitHub profile! I'm an aspiring data analyst passionate about transforming data into actionable insights. With a solid foundation in Python, SQL, and data visualization tools, I'm constantly expanding my skillset to tackle real-world data challenges. My GitHub repositories reflect my journey through various data analysis projects, from exploratory data analysis (EDA) to machine learning applications.
 
-- 💬 Ask me about **Python, SQL, Power BI, Excel**
+---
 
-- 📫 How to reach me **manasjadhav7083@gmail.com**
+## 🔍 About Me
+- 🌱 I’m currently learning advanced techniques in data visualization, statistical analysis, and machine learning.
+- 🔍 I’m interested in projects related to customer behavior analysis, financial data analysis, and health data.
+- 📊 My toolkit includes Python, SQL, Pandas, Matplotlib, Seaborn, and Jupyter notebooks.
+- 🧠 Currently diving into machine learning with Scikit-Learn and exploring deployment with Streamlit.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manasjadhav08/) or email me at [manasjadhav7083@gmail.com].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manasjadhav08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manasjadhav08/" height="30" width="40" /></a>
-<a href="https://kaggle.com/manasjadhav86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manasjadhav86" height="30" width="40" /></a>
-<a href="https://instagram.com/jadhavmanassss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadhavmanassss" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Skills
+- **Programming Languages:** Python, SQL
+- **Data Analysis Libraries:** Pandas, NumPy, Scikit-Learn
+- **Data Visualization Tools:** Matplotlib, Seaborn, Plotly
+- **Other Tools:** Jupyter Notebook, Google Sheets, Tableau, Power BI
+- **Skills in Progress:** Machine Learning, Statistical Analysis, Data Engineering Basics
+
+---
+
+## 📚 Learning Path
+
+Here's what I'm currently focusing on to level up my data analysis skills:
+1. Deepening my knowledge of **statistical analysis** and hypothesis testing.
+2. Expanding into **machine learning** concepts, especially supervised learning.
+3. Exploring **data engineering basics** for better data wrangling and transformation.
+4. Working on **data visualization** and storytelling skills using Power BI and Tableau.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always eager to connect with fellow data enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out if you're interested in discussing data, analytics, or potential collaboration opportunities!
+
+- 📧 Email: manasjadhav7083@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/manasjadhav08/
+
+---
+
+Thanks for stopping by! 🚀 Let's dive into data and uncover meaningful insights together. Happy coding!
