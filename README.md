@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Jadhav</h1>
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251" alt="Banner Image">
+  <img src=["https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251"](https://in.images.search.yahoo.com/search/images;_ylt=AwrPpSbsUENnqjoOnei9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANhNlJaRGZhalFVZTh5RUxxTDR2WUtBBG5fcnNsdAMwBG5fc3VnZwMwBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMjgEcXVlcnkDZGF0YSUyMGFuYWx5c3QlMjBpbWFnZSUyMGZvciUyMGNvdmVyBHRfc3RtcAMxNzMyNDY0OTAy?p=data+analyst+image+for+cover&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN885G0#id=7&iurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fhand-drawn-data-analysis-facebook-cover_23-2150687494.jpg&action=click) alt="Banner Image">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/>Black Money Transaction</a></td>
+      <td><a href=https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/>Black Money Transaction Analysis</a></td>
       <td>Data analysis and visualization project on Black Money Transaction Analysis.</td>
     </tr>
     <tr>
