@@ -54,6 +54,10 @@
       <td><a href=https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/>Black Money Transaction Analysis</a></td>
       <td>Data analysis and visualization project on Black Money Transaction Analysis.</td>
     </tr>
+    <tr>
+      <td><a href=https://github.com/manasjadhav0086/Adventure-Works>Adventure Works</a></td>
+      <td>An interactive Power BI dashboard for Adventure Works showcasing key business metrics such as sales performance and product analysis.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -66,6 +70,11 @@
 - **Tech Stack**: Python, Pandas, Streamlit
 - **Live Demo**: [Black Money Transaction Analysis on Streamlit](https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/)
 - **GitHub Repository**: [Blank Money Transaction Analysis Repository](https://github.com/Forsaken0702/Quantum-leap-coders-043)
+
+#### 2. Adventure Works
+- **Description**: A data-driven project to analyze patterns in black money transactions, uncover anomalies, and identify potential fraud or illicit activities.
+- **Tech Stack**: Python, SQL, Google API, Power BI
+- **GitHub Repository**: [Adventure Works Analysis Repository](https://github.com/manasjadhav0086/Adventure-Works)
 
 ---
 
