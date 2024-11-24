@@ -95,9 +95,6 @@
   <a href="mailto:manasjadhav7083@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
   </a>
-  <a href="https://github.com/ManasJadhav333">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
-  </a>
 </p>
 
 ---
