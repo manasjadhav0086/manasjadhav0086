@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/hand-drawn-data-analysis-facebook-cover_23-2150687494.jpg" alt="Banner Image" width="100%"/>
+  <img src="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/DATAANALYTICS-1686234812978.png?fm=png&auto=format" alt="Banner Image">
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/manasjadhav08/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manasjadhav7083@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/manasjadhav0086">
-    <img src="https://img.shields.io/badge/GitHub-0086?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0086?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 - **GitHub Repository**: [Black Money Transaction Analysis Repository](https://github.com/Forsaken0702/Quantum-leap-coders-043)
 
 #### 2. Adventure Works
-- **Description**: A comprehensive business intelligence project analyzing sales data using Power BI, providing interactive dashboards with detailed insights.
+- **Description**: A data-driven project to analyze patterns in black money transactions, uncover anomalies, and identify potential fraud or illicit activities.
 - **Tech Stack**: Python, SQL, Google API, Power BI
 - **GitHub Repository**: [Adventure Works Analysis Repository](https://github.com/manasjadhav0086/Adventure-Works)
 
