@@ -73,7 +73,7 @@
 - **GitHub Repository**: [Black Money Transaction Analysis Repository](https://github.com/Forsaken0702/Quantum-leap-coders-043)
 
 #### 2. Adventure Works
-- **Description**: A data-driven project to analyze patterns in black money transactions, uncover anomalies, and identify potential fraud or illicit activities.
+- **Description**: An interactive Power BI dashboard for Adventure Works showcasing key business metrics such as sales performance and product analysis.
 - **Tech Stack**: Python, SQL, Google API, Power BI
 - **GitHub Repository**: [Adventure Works Analysis Repository](https://github.com/manasjadhav0086/Adventure-Works)
 
