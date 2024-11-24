@@ -51,12 +51,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://sharktank-ymasb.streamlit.app/">Shark Tank Analysis</a></td>
+      <td><a href=https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/>Black Money Transaction Analysis</a></td>
       <td>Data analysis and visualization project on Shark Tank investments.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ManasJadhav333/Agricultural-Insights">Agricultural Insights</a></td>
-      <td>Analysis of agricultural metrics like production, area, and yield using Python.</td>
     </tr>
   </tbody>
 </table>
