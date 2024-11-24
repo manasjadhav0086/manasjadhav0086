@@ -24,6 +24,15 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about tran
 
 ---
 
+## 🤝 Let's Connect!
+
+I'm always eager to connect with fellow data enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out if you're interested in discussing data, analytics, or potential collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasjadhav08/)
+[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1hXWm4RBBI5uT_74RSd-zrrvQfyNCwnlX/view?usp=sharing)
+
+---
+
 ## 📚 Learning Path
 
 Here's what I'm currently focusing on to level up my data analysis skills:
@@ -31,15 +40,6 @@ Here's what I'm currently focusing on to level up my data analysis skills:
 2. Expanding into **machine learning** concepts, especially supervised learning.
 3. Exploring **data engineering basics** for better data wrangling and transformation.
 4. Working on **data visualization** and storytelling skills using Power BI and Tableau.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always eager to connect with fellow data enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out if you're interested in discussing data, analytics, or potential collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasjadhav08/)
-[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1hXWm4RBBI5uT_74RSd-zrrvQfyNCwnlX/view?usp=sharing)
 
 ---
 
