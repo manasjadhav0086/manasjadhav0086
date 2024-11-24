@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst passionate about tran
 - 🔍 I’m interested in projects related to customer behavior analysis, financial data analysis, and health data.
 - 📊 My toolkit includes Python, SQL, Pandas, Matplotlib, Seaborn, and Jupyter notebooks.
 - 🧠 Currently diving into machine learning with Scikit-Learn and exploring deployment with Streamlit.
-- 📫 Feel free to contact me on [LinkedIn] https://www.linkedin.com/in/manasjadhav08/ or email me at manasjadhav7083@gmail.com.
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/manasjadhav08/) or email me at manasjadhav7083@gmail.com.
 
 ---
 
@@ -38,8 +38,8 @@ Here's what I'm currently focusing on to level up my data analysis skills:
 
 I'm always eager to connect with fellow data enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out if you're interested in discussing data, analytics, or potential collaboration opportunities!
 
-- 📧 Email: manasjadhav7083@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/manasjadhav08/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasjadhav08/)
+[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1hXWm4RBBI5uT_74RSd-zrrvQfyNCwnlX/view?usp=sharing)
 
 ---
 
