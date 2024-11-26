@@ -52,7 +52,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/">Black Money Transaction Analysis</a></td>
+      <td><a href="https://github.com/Forsaken0702/Quantum-leap-coders-043">Black Money Transaction Analysis</a></td>
       <td>Data analysis and visualization project on Black Money Transaction Analysis.</td>
     </tr>
     <tr>
