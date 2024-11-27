@@ -77,6 +77,12 @@
 - **Tech Stack**: Python, SQL, Google API, Power BI
 - **GitHub Repository**: [Adventure Works Analysis Repository](https://github.com/manasjadhav0086/Adventure-Works)
 
+#### 3. Sales Analysis Dashboard
+- **Description**: An interactive Streamlit-based web app to analyze and visualize sales data with features like dynamic filtering, KPIs, and customizable charts.
+- **Tech Stack**: Python, Pandas, Streamlit
+- **Live Demo**: [Sales Analysis Dashboard on Streamlit](https://sales--analysis--dashboard.streamlit.app/)
+- **GitHub Repository**: [Sales Analysis dashboard Repository](https://github.com/manasjadhav0086/sales_analytics_dashboard)
+
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
