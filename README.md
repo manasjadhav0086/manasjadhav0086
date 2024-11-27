@@ -24,7 +24,7 @@
 
 <h3 align="center">🔍 About Me</h3>
 <p align="center">
-  Aspiring Data Analyst with a passion for uncovering insights through data. Skilled in Python, SQL, and data visualization tools like Matplotlib and Seaborn. Constantly exploring new technologies to deliver impactful data-driven solutions. Experienced in projects involving EDA, statistical analysis, and machine learning applications.
+  Aspiring Data Analyst with a passion for uncovering insights through data. Skilled in Python, SQL, Power BI, Excel, and data visualization tools like Matplotlib and Seaborn. Constantly exploring new technologies to deliver impactful data-driven solutions. Experienced in projects involving EDA, statistical analysis, and machine learning applications.
 </p>
 
 ---
