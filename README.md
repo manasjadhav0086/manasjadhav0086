@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1TTTzXvOCOP-7XLmBtLM4sfPSHHaY0tTw/view?usp=sharing" target="_blank">
+  <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d7da7ca4c4119e9aee99" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/manasjadhav08/">
