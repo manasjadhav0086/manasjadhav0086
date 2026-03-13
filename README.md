@@ -15,7 +15,7 @@ Building scalable data pipelines, optimizing analytics systems, and delivering e
   <a href="mailto:manasjadhav7083@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/manasjadhav0086](https://github.com/manasjadhav0086?tab=repositories)">
+  <a href="https://github.com/manasjadhav0086?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
