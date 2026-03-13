@@ -6,7 +6,7 @@ Building scalable data pipelines, optimizing analytics systems, and delivering e
 </p>
 
 <p align="center">
-  <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d7da7ca4c4119e9aee99">
+  <a href="https://drive.google.com/file/d/1yN2wXO1-FvI4SHJfAEoM4AHNgxi42y83/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manasjadhav08/">
