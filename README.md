@@ -6,7 +6,7 @@ Building scalable data pipelines, optimizing analytics systems, and delivering e
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dXdItdxyClS8hyXAd5_Q2jQWfEQkT5hD/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1dXdItdxyClS8hyXAd5_Q2jQWfEQkT5hD/view?usp=sharing](https://drive.google.com/file/d/19cG7N4K97uIdzAkdK2fAL1BLp8ooYuE3/view?usp=drive_link)">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/manasjadhav08/">
